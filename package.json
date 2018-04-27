@@ -1,6 +1,7 @@
 {
   "name": "test-app",
   "version": "0.1.0",
+  "homepage": "https://petrotest.github.io/heyhey/",
   "private": true,
   "dependencies": {
     "react": "^16.3.2",
